@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-smarty",
-  "version": "0.2.1",
-  "description": "Smarty MCP — wraps Smarty's US Address Verification + US Property Enrichment APIs (smarty.com — formerly SmartyStreets).",
+  "version": "0.2.2",
+  "description": "Unofficial Smarty MCP — wraps Smarty's US Address Verification + US Property Enrichment APIs (smarty.com — formerly SmartyStreets).",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "smarty",
     "gatewaySlug": "smarty",
-    "sourceHash": "v1-91e80b55d83481cd0d10cff59f63b7a85b9e63fa86e997ccb15c0fe21c66f7e6",
-    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
+    "sourceHash": "v1-d7c849725f29a3e1e63695e59d8cffaedd5ca90396bb6312186265f254097cb3",
+    "sourceCommit": "6e7ae693219a515a7ee6dd88d02390ab290fbad3"
   }
 }
